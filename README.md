@@ -20,7 +20,7 @@ pip install -r ../requirements.txt
 ```bash
 cd shooter_assets
 python -m venv venv
-venv\Scripts\activate
+venv\Scripts\Activate
 pip install -r ..\requirements.txt
 ```
 
